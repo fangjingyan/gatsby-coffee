@@ -680,7 +680,7 @@ h6 {
   background: var(--mainBrown);
 }
 
-.about-background{
+.about-background {
   min-height: 60vh;
   display: flex;
   align-items: center;
@@ -690,6 +690,7 @@ h6 {
   background-size: cover;
 }
 
-.menu{
-  background: var(--mainGrey)
+.menu,
+.contact {
+  background: var(--mainGrey);
 }
